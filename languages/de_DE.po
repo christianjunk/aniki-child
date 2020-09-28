@@ -1,0 +1,216 @@
+# Translation of Themes - Aniki in German
+# This file is distributed under the same license as the Themes - Aniki package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-28 16:15+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.1\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Aniki\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Description of the theme
+msgid "Aniki is a lightweight WordPress theme. A perfect choice for your blog."
+msgstr "Aniki ist ein leichtgewichtiges WordPress Theme. Eine perfekte Wahl für Deinen Blog."
+
+#. Theme Name of the theme
+msgid "Aniki"
+msgstr "Aniki"
+
+#. translators: %1$s: smiley
+#: 404.php:52
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Versuche es mit einem Blick in die monatlichen Archive. %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Meistgenutzte Kategorien"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Es sieht so aus, als ob an dieser Stelle nichts gefunden wurde. Vielleicht hilft einer der Links unten oder eine Suche?"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Diese Seite konnte leider nicht gefunden werden."
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr "Kommentare sind deaktiviert."
+
+#: comments.php:44 comments.php:68
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: comments.php:41 comments.php:65
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:38 comments.php:62
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#. translators: used for comment section on single post
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Gedanke zu &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s Gedanken zu &bdquo;%2$s&ldquo;"
+
+#. translators: Shows the search results
+#: search.php:25
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Springe zum Inhalt"
+
+#: functions.php:131
+msgid "Sidebar"
+msgstr "Springe zum Inhalt"
+
+#: functions.php:77
+msgid "Primary"
+msgstr "Primär"
+
+#. translators: used in the footer bottom line on the whole site
+#: footer.php:35
+msgid "Developed by %1$s."
+msgstr "Entwickelt von %1$s."
+
+#. translators: used in the footer bottom line on the whole site
+#: footer.php:30
+msgid "Proudly powered by %s"
+msgstr "Mit freundlicher Unterstützung von %s"
+
+#: footer.php:27
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/template-tags.php:67
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+#: inc/template-tags.php:50 inc/template-tags.php:57
+msgid ", "
+msgstr ", "
+
+#. translators: used to show the author name
+#: inc/template-tags.php:34
+msgctxt "post author"
+msgid "by %s"
+msgstr "von %s"
+
+#. translators: used in top of post, specifies the date it is posted on
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Veröffentlicht am %s"
+
+#: inc/customizer.php:78
+msgid "Garyscale mode:"
+msgstr "Graustufen-Modus:"
+
+#: inc/customizer.php:70
+msgid "Grayscale mode"
+msgstr "Graustufen-Modus"
+
+#: inc/customizer.php:42
+msgid "Add your welcome message below"
+msgstr "Fügen Sie hier Ihre Willkommensnachricht hinzu"
+
+#: inc/customizer.php:41
+msgid "Welcome message text"
+msgstr "Inhalt der Willkommensnachricht"
+
+#: inc/customizer.php:31
+msgid "Hey there, nice to meet you! Thanks for coming by to my awesome blog site. I hope you enjoy your stay here and give me some feedback on the content I provided."
+msgstr "Hallo! Freut mich, dich kennenzulernen! Danke, dass Du auf meiner tollen Blog-Website vorbeischaust. Ich hoffe, Du genießt Deinen Aufenthalt hier und gibst mir ein Feedback zu den von mir bereitgestellten Inhalten."
+
+#: inc/customizer.php:22
+msgid "Welcome message"
+msgstr "Willkommensnachricht"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als ob wir nicht das finden konnten, wonach du gesucht hast. Möglicherweise hilft eine Suche."
+
+#: template-parts/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Leider gibt es keine Übereinstimmung mit deinen Suchbegriffen. Bitte versuche es mit anderen Schlüsselwörtern erneut."
+
+#. translators: shows when no content is published
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit, deinen ersten Beitrag zu veröffentlichen? <a href=“%1$s”>Starte hier</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Es konnte nichts gefunden werden"
+
+#: template-parts/content-feature-post.php:61
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:36 inc/template-tags.php:74
+msgid "Edit %s"
+msgstr "%s bearbeiten"
+
+#: template-parts/content.php:113 template-parts/content-page.php:25
+#: template-parts/content-feature-post.php:68
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: template-parts/content.php:107
+msgid "READ MORE"
+msgstr "Weiterlesen"
+
+#: template-parts/content-single.php:72 template-parts/content.php:69
+#: template-parts/content-feature-post.php:43 inc/template-tags.php:67
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: template-parts/content-single.php:72 template-parts/content.php:69
+#: template-parts/content-feature-post.php:43 inc/template-tags.php:67
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: template-parts/content-single.php:72 template-parts/content.php:69
+#: template-parts/content-feature-post.php:43
+msgid "No comments"
+msgstr "Keine Kommentare"
+
+#. translators: shows on single post
+#. translators: view all posts containing the same tag
+#: template-parts/content-single.php:61 template-parts/content.php:60
+#, fuzzy
+msgid "View all posts with %s"
+msgstr "Alle Beiträge in %s ansehen"
+
+#. translators: shows on single post
+#. translators: view all posts for the category
+#. translators: shows only on featured posts
+#: template-parts/content-single.php:39 template-parts/content.php:39
+#: template-parts/content-feature-post.php:29
+msgid "View all posts in %s"
+msgstr "Alle Beiträge in %s ansehen"
+
+#. Author URI of the theme
+msgid "https://devrix.com/"
+msgstr "https://devrix.com/"
+
+#. Author of the theme
+msgid "DevriX"
+msgstr "DevriX"
+
+#. Theme URI of the theme
+msgid "https://github.com/DevriX/Aniki"
+msgstr "https://github.com/DevriX/Aniki"
